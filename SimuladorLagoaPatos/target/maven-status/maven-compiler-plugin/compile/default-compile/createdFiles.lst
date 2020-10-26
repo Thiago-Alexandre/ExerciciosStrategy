@@ -1,0 +1,15 @@
+model\PatoMallard.class
+model\QuackComAssobio.class
+model\VoarComAsas.class
+model\VoarComMochilaJato.class
+model\PatoAJato.class
+main\Main.class
+model\PatoCabecaVermelha.class
+model\QuackMudo.class
+model\PatoPelucia.class
+model\QuackNormal.class
+model\PatoBorracha.class
+model\ComportamentoQuack.class
+model\ComportamentoVoar.class
+model\VoarNaoAplicavel.class
+model\Pato.class
